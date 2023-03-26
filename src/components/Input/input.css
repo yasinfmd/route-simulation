@@ -1,0 +1,26 @@
+
+.text-input{
+    height: 40px;
+    padding: 16px;
+    border-radius: 16px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    outline: none;
+    width: 100%;
+}
+.text-input-wrapper{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.text-input-wrapper > .text-input-icon{
+    position: absolute;
+    right: 16px;
+    top: 10px;
+}
+.text-input-wrapper > .error{
+    color: red;
+    margin-top: 4px;
+    font-weight: 600;
+    font-size: 12px;
+}

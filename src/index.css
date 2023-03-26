@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+.vh{
+  height: 100vh;
+}
+.vw{
+  width: 100vw;
+}
+.mb8{
+  margin-bottom: 8px;
+}
+.vw50{
+  width: 50vw;
+}
