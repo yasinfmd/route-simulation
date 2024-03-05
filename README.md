@@ -1,0 +1,1 @@
+Bu projeye harita üzerinde belirtilen koordinatlar arasında bir geminin rüzgar , hız vb gibi çeşitli parametrelere bağlı olarak değişen hızında tahmini olarak bir sonraki rotaya ne zaman varacağını göstermektedir
